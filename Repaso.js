@@ -30,3 +30,16 @@
 //Despliegue - Protocolos - Testing - Documentacion
 
 //Bases de datos
+
+//Node es un entorno de ejecucion para Javiscript en el servidor, permite usar Javascript, que tradicionalmente
+//se usa  en el navegador , en el lado del servidor para construir aplicaciones de back-end
+
+//Vamos a usar JAVASCRIPT
+
+//Existen otros runtimes -> si existen otros como BUN y DENO
+//Pero el node es el mas robusto y mas utilizado en el ecosistema en este momento
+
+//Runtime -> Entorno de ejecucion
+
+
+//Desafios -> Muchas cosas por aprender
